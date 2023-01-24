@@ -7,7 +7,7 @@ share a business post on social media using HTML, Angular, TypeScript, Bootstrap
 library and Node.js Express framework
 3. Created responsive front-end using Angular, TypeScript, and Bootstrap and processed JSON response from the backend
 
-# Search form
+# Search Form
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Search_form.png)
 
 # Displaying table of businesses
@@ -16,7 +16,7 @@ library and Node.js Express framework
 # Displaying Detailed information of the business
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png)
 
-# Resversation form
+# Resversation Form
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Reservation_form.png)
 
 # Displaying the list of user reservations
