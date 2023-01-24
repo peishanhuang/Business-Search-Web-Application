@@ -16,8 +16,14 @@ library and Node.js Express framework
 # Displaying Detailed information of the business
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png)
 
-# resversation form
+# Resversation form
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png)
 
 # Displaying the list of user reservations
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Booking_list.png)
+
+# Technologies Used
+| Area        | Technology |
+| ----------- | ---------- |
+| Frontend    | HTML/CSS, Bootstrap, Angular, TypeScript, JSON and the Fetch API |
+| Backend     | Axios, Node.js Express Framework |
