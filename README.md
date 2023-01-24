@@ -11,13 +11,13 @@ library and Node.js Express framework
 ![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Reservation_form.png)
 
 # Displaying table of businesses
-![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Results_table.png =x20)
+![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Results_table.png)
 
 # Displaying Detailed information of the business
-![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png =100x20)
+![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png)
 
 # resversation form
-![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png =100x20)
+![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Details_card.png)
 
 # Displaying the list of user reservations
-![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Booking_list.png =100x20)
+![alt text](https://github.com/peishanhuang/Business-Search-Web-Application/blob/main/Booking_list.png)
